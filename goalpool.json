@@ -2,5 +2,6 @@
   "name": "Cardano Goal Pool",
   "description": "Win and help win!",
   "ticker": "GOAL",
-  "homepage": "https://goalstaking.com"
+  "homepage": "https://goalstaking.com",
+  "adapools": "1b5566af56317dbad98c86ef1db82f94"
 }
